@@ -1,2 +1,2 @@
-# DevChat
-Chat para Grupos de Devs em Projeto
+# Chat
+Chat usando webSockets usando Flask em python
